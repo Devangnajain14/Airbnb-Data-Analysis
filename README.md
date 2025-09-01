@@ -14,10 +14,10 @@ This project performs Exploratory Data Analysis (EDA) on Airbnb listings using d
   - Interactive map visualization
 
 # EDA Insights:
-** Room Type Analysis: Distribution and average price by room type
-** Price Distribution: Focus on listings below $500
-** Neighborhood Insights: Top 10 areas by number of listings
-** Minimum Nights & Review Distribution: Histograms for clearer trends
-** Availability vs Price: Scatter plot for listing availability
-** Correlation Heatmap: Relationship between price, reviews, and availability
-** Folium Map: Interactive map of 300 sample listings priced below $300
+- **Room Type Analysis:** Distribution and average price by room type
+- **Price Distribution:** Focus on listings below $500
+- **Neighborhood Insights:** Top 10 areas by number of listings
+- **Minimum Nights & Review Distribution:** Histograms for clearer trends
+- **Availability vs Price:** Scatter plot for listing availability
+- **Correlation Heatmap:** Relationship between price, reviews, and availability
+- **Folium Map:** Interactive map of 300 sample listings priced below $300
